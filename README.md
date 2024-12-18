@@ -1,12 +1,12 @@
-<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/f64_logo.png?raw=true" alt="Faithful 64x" align="right" height="256px">
+<img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/logos/transparent/512/f64_logo.png" alt="Faithful 64x" align="right" height="256px">
 <div align="center">
   <h1>Faithful 64x</h1>
   <h3>An even more detailed experience with quadruple-resolution textures!</h3>
   <h5><i>Official Java Edition repository</i></h5>
 
-![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-Java-64x)
-![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Faithful-Java-64x)
-![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Faithful-Java-64x)
+![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-64x-Java)
+![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Faithful-64x-Java)
+![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Faithful-64x-Java)
 </div>
 
 ---
