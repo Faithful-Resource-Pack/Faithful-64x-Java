@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 54,
+    "pack_format": 80,
     "description": "A default-style 64x resource pack for Minecraft Java Edition.",
     "supported_formats": {
-      "min_inclusive": 54,
-      "max_inclusive": 55
+      "min_inclusive": 80,
+      "max_inclusive": 81
     }
   }
 }
