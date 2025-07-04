@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 54,
-    "description": "A default-style 64x resource pack for Minecraft Java Edition.",
+    "pack_format": 64,
+    "description": "The go-to 64x texture pack for Minecraft. By HARYA_ and many others.",
     "supported_formats": {
-      "min_inclusive": 54,
-      "max_inclusive": 55
+      "min_inclusive": 64,
+      "max_inclusive": 65
     }
   }
 }
