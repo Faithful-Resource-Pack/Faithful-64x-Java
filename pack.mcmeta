@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 64,
+    "pack_format": 66,
     "description": "The go-to 64x texture pack for Minecraft. By HARYA_ and many others.",
     "supported_formats": {
-      "min_inclusive": 64,
-      "max_inclusive": 64
+      "min_inclusive": 66,
+      "max_inclusive": 67
     }
   }
 }
